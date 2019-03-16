@@ -1,6 +1,3 @@
 print('hello, world')
 print('test-branch')
 print ('lv')
-print ('pepe')
-print ('hello')
-print ('world')
